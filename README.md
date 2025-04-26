@@ -5,4 +5,6 @@ This project visualizes the golden ratio pattern in a sunflower's seed arrangeme
 - **Golden Ratio** seed distribution mimicking sunflower patterns.
 - **Color Variations** based on natural gradients.
 - **Interactive Web Version** for easy visualization: [Try it here](https://sunflower-hup4.onrender.com/).
+
+
 ![Screenshot_20](https://github.com/user-attachments/assets/0da4cb2d-b915-457c-ae94-15452f5b6430)
